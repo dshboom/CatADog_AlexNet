@@ -27,9 +27,9 @@
 
 本项目实现了基于AlexNet的卷积神经网络，用于猫狗图像的二分类任务。模型在自定义的5340张图像数据集上进行了训练，采用了先进的数据增强技术，并在验证集上达到了高精度。
 数据集下载连接：
-'''
+```
 https://www.microsoft.com/en-us/download/details.aspx?id=54765&msockid=090afa7ca22466862a52e891a34f67a4
-'''
+```
 
 ### 主要特点
 - **自定义AlexNet实现**：使用PyTorch从零构建
